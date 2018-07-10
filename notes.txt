@@ -1,0 +1,10 @@
+https://www.alphavantage.co/
+https://www.alphavantage.co/documentation/
+
+*** THIS ONE ***
+https://socket.io/get-started/chat/
+
+D3 Oreilly book examples!!!
+https://github.com/alignedleft/d3-book/blob/master/chapter_11/01_line_chart.html
+
+
